@@ -1,0 +1,66 @@
+#blc1 {
+  background: #3b5998;
+  color: #fff; }
+
+#blc2 {
+  background: #00aced;
+  color: white; }
+
+#blc3 {
+  background: #4875b4;
+  color: white; }
+
+#blc4 {
+  background: #d34836;
+  color: white; }
+
+#title1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase; }
+
+#mainvalue {
+  font-family: 'Jura', sans-serif;
+  font-size: 110px;
+  font-weight: bold;
+  text-align: center; }
+
+#percent {
+  font-family: 'Jura', sans-serif;
+  font-size: 50px;
+  text-align: right; }
+
+#simplevalue {
+  font-family: 'Jura', sans-serif;
+  font-size: 35px;
+  text-align: right; }
+
+#table {
+  padding-top: 0%; }
+
+#table1 {
+  background: #4dbd74;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px; }
+
+#table2 {
+  background: #ffc107;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px; }
+
+#tablet1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50pt;
+  text-align: center; }
+
+#tablet2 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50pt; }
+
+img {
+  border-radius: 50%; }
+
+/*# sourceMappingURL=main.css.map */
